@@ -1,0 +1,11 @@
+name: xenforo-thread-dl
+version: 0.1.0
+
+authors:
+  - Tycho Kaster
+
+dependencies:
+  myhtml:
+    github: kostya/myhtml
+
+license: GPLv3.0
